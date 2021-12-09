@@ -1,0 +1,23 @@
+name: formkit
+description: Boilerplate free form builder for Flutter
+version: 0.0.1
+repository: https://github.com/gilmarsquinelato/FormKit_flutter/tree/main/packages/formkit
+issue_tracker: https://github.com/gilmarsquinelato/FormKit_flutter
+homepage: https://github.com/gilmarsquinelato/FormKit_flutter
+documentation: https://github.com/gilmarsquinelato/FormKit_flutter
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  rxdart: ^0.26.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
